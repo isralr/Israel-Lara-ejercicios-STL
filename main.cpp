@@ -1,16 +1,12 @@
 #include <iostream>
 
-namespace Matematicas {
-    int suma(int a, int b) {
-        return a + b;
-    }
-    int resta(int a, int b) {
-        return a - b;
-    }
+namespace Geometria {
+    double calcularAreaTriangulo(double base, double altura);
+    double calcularAreaCirculo(double radio);
 }
 
 int main() {
-    std::cout << "Suma: " << Matematicas::suma(5, 3) << std::endl;
-    std::cout << "Resta: " << Matematicas::resta(5, 3) << std::endl;
+    std::cout << "Area del triangulo: " << Geometria::calcularAreaTriangulo(5, 3) << std::endl;
+    std::cout << "Area del circulo: " << Geometria::calcularAreaCirculo(3) << std::endl;
     return 0;
 }
