@@ -49,11 +49,11 @@ cmake_ninja_workdir = C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-eje
 
 build cmake_object_order_depends_target_Israel_Lara_ejercicios_STL: phony || .
 
-build CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/circulo.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/matematicas/geometria/circulo.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
-  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\matematicas\geometria\circulo.cpp.obj.d
+build CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/matematicas/geometria/circulo.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/ciencias/matematicas/geometria/circulo.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
+  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\matematicas\geometria\circulo.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\matematicas\geometria
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\matematicas\geometria
 
 build CMakeFiles/Israel_Lara_ejercicios_STL.dir/main.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/main.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
   DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\main.cpp.obj.d
@@ -61,23 +61,29 @@ build CMakeFiles/Israel_Lara_ejercicios_STL.dir/main.cpp.obj: CXX_COMPILER__Isra
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
 
-build CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/triangulo.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/matematicas/geometria/triangulo.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
-  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\matematicas\geometria\triangulo.cpp.obj.d
+build CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/matematicas/geometria/triangulo.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/ciencias/matematicas/geometria/triangulo.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
+  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\matematicas\geometria\triangulo.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\matematicas\geometria
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\matematicas\geometria
 
-build CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/matematicas.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/matematicas/matematicas.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
-  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\matematicas\matematicas.cpp.obj.d
+build CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/matematicas/matematicas.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/ciencias/matematicas/matematicas.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
+  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\matematicas\matematicas.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\matematicas
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\matematicas
 
-build CMakeFiles/Israel_Lara_ejercicios_STL.dir/fisica/fisica.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/fisica/fisica.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
-  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\fisica\fisica.cpp.obj.d
+build CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/fisica/fisica.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/ciencias/fisica/fisica.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
+  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\fisica\fisica.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
-  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\fisica
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\ciencias\fisica
+
+build CMakeFiles/Israel_Lara_ejercicios_STL.dir/stl/stl_demo.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/stl/stl_demo.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
+  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\stl\stl_demo.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\stl
 
 
 # =============================================================================
@@ -87,7 +93,7 @@ build CMakeFiles/Israel_Lara_ejercicios_STL.dir/fisica/fisica.cpp.obj: CXX_COMPI
 #############################################
 # Link the executable Israel_Lara_ejercicios_STL.exe
 
-build Israel_Lara_ejercicios_STL.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_ejercicios_STL_Debug CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/circulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/main.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/triangulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/matematicas.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/fisica/fisica.cpp.obj
+build Israel_Lara_ejercicios_STL.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_ejercicios_STL_Debug CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/matematicas/geometria/circulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/main.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/matematicas/geometria/triangulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/matematicas/matematicas.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/ciencias/fisica/fisica.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/stl/stl_demo.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir

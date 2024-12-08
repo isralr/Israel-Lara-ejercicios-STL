@@ -4,11 +4,13 @@ project(Israel_Lara_ejercicios_STL)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Israel_Lara_ejercicios_STL
-        matematicas/geometria/circulo.cpp
+        ciencias/matematicas/geometria/circulo.cpp
     main.cpp
-        matematicas/geometria/triangulo.cpp
-        matematicas/matematicas.cpp
-        matematicas/matematicas.h
-        matematicas/geometria/geometria.h
-        fisica/fisica.h
-        fisica/fisica.cpp)
+        ciencias/matematicas/geometria/triangulo.cpp
+        ciencias/matematicas/matematicas.cpp
+        ciencias/matematicas/matematicas.h
+        ciencias/matematicas/geometria/geometria.h
+        ciencias/fisica/fisica.h
+        ciencias/fisica/fisica.cpp
+        stl/stl_demo.cpp
+        stl/stl_demo.h)

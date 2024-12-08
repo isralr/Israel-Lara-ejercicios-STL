@@ -1,7 +1,8 @@
 #include <iostream>
-#include "matematicas/matematicas.h"
-#include "matematicas/geometria/geometria.h"
-#include "fisica/fisica.h"
+#include "ciencias/matematicas/matematicas.h"
+#include "ciencias/matematicas/geometria/geometria.h"
+#include "ciencias/fisica/fisica.h"
+#include "stl/stl_demo.h"
 
 int main() {
     void ejecutarEjercicio1();{
@@ -24,6 +25,11 @@ int main() {
     void ejecutarEjercicio4();{
         std::cout << "=== Ejercicio 4: Energia Relativista ===\n";
         std::cout << "Energia: " << Ciencia::Fisica::calcularEnergia(10) << std::endl;
+    }
+
+    void ejecutarEjercicio5();{
+        std::cout << "=== Ejercicio 5: STL ===\n";
+        mostrarDemostracionSTL();
     }
     return 0;
 }
