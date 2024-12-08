@@ -8,4 +8,5 @@ add_executable(Israel_Lara_ejercicios_STL
     main.cpp
         matematicas/geometria/triangulo.cpp
         matematicas/matematicas.cpp
-        matematicas/matematicas.h)
+        matematicas/matematicas.h
+        matematicas/geometria/geometria.h)
