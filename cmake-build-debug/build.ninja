@@ -73,6 +73,12 @@ build CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/matematicas.cpp.obj:
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
   OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\matematicas
 
+build CMakeFiles/Israel_Lara_ejercicios_STL.dir/fisica/fisica.cpp.obj: CXX_COMPILER__Israel_Lara_ejercicios_STL_unscanned_Debug C$:/Users/israe/OneDrive/Documentos/GitHub/Israel-Lara-ejercicios-STL/fisica/fisica.cpp || cmake_object_order_depends_target_Israel_Lara_ejercicios_STL
+  DEP_FILE = CMakeFiles\Israel_Lara_ejercicios_STL.dir\fisica\fisica.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
+  OBJECT_FILE_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir\fisica
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Israel_Lara_ejercicios_STL
@@ -81,7 +87,7 @@ build CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/matematicas.cpp.obj:
 #############################################
 # Link the executable Israel_Lara_ejercicios_STL.exe
 
-build Israel_Lara_ejercicios_STL.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_ejercicios_STL_Debug CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/circulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/main.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/triangulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/matematicas.cpp.obj
+build Israel_Lara_ejercicios_STL.exe: CXX_EXECUTABLE_LINKER__Israel_Lara_ejercicios_STL_Debug CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/circulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/main.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/geometria/triangulo.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/matematicas/matematicas.cpp.obj CMakeFiles/Israel_Lara_ejercicios_STL.dir/fisica/fisica.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Israel_Lara_ejercicios_STL.dir
