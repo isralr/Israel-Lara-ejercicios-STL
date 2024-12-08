@@ -4,6 +4,15 @@
 namespace Geometria {
     double calcularAreaTriangulo(double base, double altura);
     double calcularAreaCirculo(double radio);
+
+    class Circulo {
+    private:
+        double radio;
+    public:
+        Circulo(double r);
+        double calcularArea();
+        double calcularPerimetro();
+    };
 }
 
 #endif

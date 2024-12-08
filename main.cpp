@@ -14,5 +14,11 @@ int main() {
         std::cout << "Area del triangulo: " << Geometria::calcularAreaTriangulo(5, 3) << std::endl;
         std::cout << "Area del circulo: " << Geometria::calcularAreaCirculo(3) << std::endl;
     }
+    void ejecutarEjercicio3();{
+        std::cout << "=== Ejercicio 3: Clase Circulo ===\n";
+        Geometria::Circulo c(5);
+        std::cout << "Area del circulo: " << c.calcularArea() << std::endl;
+        std::cout << "Perimetro del circulo: " << c.calcularPerimetro() << std::endl;
+    }
     return 0;
 }
