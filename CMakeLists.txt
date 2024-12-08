@@ -4,6 +4,8 @@ project(Israel_Lara_ejercicios_STL)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Israel_Lara_ejercicios_STL
-    circulo.cpp
+        matematicas/geometria/circulo.cpp
     main.cpp
-    triangulo.cpp)
+        matematicas/geometria/triangulo.cpp
+        matematicas/matematicas.cpp
+        matematicas/matematicas.h)
